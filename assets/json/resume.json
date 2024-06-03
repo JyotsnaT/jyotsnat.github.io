@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jyotsna Thapliyal",
-    "label": "ML scientist",
+    "label": "Applied ML engineer",
     "image": "",
     "email": "jyotsna.thapliyal22@gmail.com",
     "phone": "",
@@ -27,10 +27,28 @@
       "name": "Linkedin",
       "position": "Sr. Software Engineer, Machine Learning",
       "url": "",
-      "startDate": "April 2022",
-      "endDate": "October 2023",
+      "startDate": "Apr'22",
+      "endDate": "Oct'23",
       "summary": "As part of Trust and Safety of LinkedIn platform built end-to-end solutions to moderate content and advertisements using deep learning focused in Computer Vision and NLP.",
       "highlights": ["Image classification", "fraud detection"]
+    },
+    {
+      "name": "Linkedin",
+      "position": "Applied Research Engineer, Computer vision",
+      "url": "",
+      "startDate": "Jul'19",
+      "endDate": "Mar'22",
+      "summary": "Enabled trust capabilities for linkedin's foundational models like Image captioning.",
+      "highlights": ["Image captioning", "abuse classification"]
+    },
+    {
+      "name": "Capillary Technologies",
+      "position": "Sr. Data Scientist",
+      "url": "",
+      "startDate": "Aug'17",
+      "endDate": "Jul'19",
+      "summary": "Built recommendation engines for retail and e-commerce platforms specifically for campaign personalization and product recommendations.",
+      "highlights": ["Collaborative Filtering", "Recommender systems"]
     }
   ],
   "education": [
@@ -40,63 +58,26 @@
       "url": "https://www.iitm.ac.in/",
       "area": "Computer Science",
       "studyType": "Masters in Technology",
-      "startDate": "July, 2014",
-      "endDate": "May, 2016",
+      "startDate": "Jul'14",
+      "endDate": "May'16",
       "score": "",
-      "courses": ["Machine Learning", "Computer Vision", "Kernel methods for pattern analysis"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "courses": ["Machine Learning", "Computer Vision", "Data Mining", "Kernel methods for pattern analysis"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Generative AI with Large Language Models",
+      "date": "2023-08-15",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/17ed0304514a1d8c5a2a16c3591d2d44",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Deep Learning Specialization",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/9VAJAFECWV65",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
@@ -130,38 +111,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep Learning",
+        "Computer Vision",
+        "NLP",
+        "PyTorch",
+        "python"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
