@@ -19,18 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Welcome to my world! 
+👋 Hi there! I'm an ML professional with six years of experience working in both big tech and mid-sized companies. I specialize in building AI products, and I’m passionate about the impact they can make. I hold a master's degree from IIT Madras, where I developed a strong academic foundation in machine learning and artificial intelligence.
+
+🌄 I grew up in the Himalayas, surrounded by the vibrant Indian music culture, and I absolutely love dancing to Bollywood tunes. My spiritual background has instilled in me a deep appreciation for yoga and meditation, which I practice regularly to find balance and peace.
+
+🎭 Outside of work, I'm moderately opinionated and have a soft spot for puns and low-key humor. As a Scorpion in Vedic astrology and an ENFJ personality type, I bring a blend of passion and empathy to everything I do.
+
+Welcome, and I hope you enjoy exploring my world!
 
 *If you want to check out my professional journey and are interested in working with me check out the 'resume' tab. If you are seeking some infomation on my technical write-ups check out the 'Tech' drop-down. The non-technical section can be found on 'Life' tab.* 
-
-
-:chestnut: :shell: In a nutshell 
-    
-:robot: I am an ML professional with experience in applied ML across big tech and mid size companies. Building AI products excites me and I am good at it. Being from India, I had to take my education seriously and hence completed my masters from IITM. 
-
-:blossom: I grew up in the Himalayas amidst rich Indian music culture and enjoy dancing to bollywood numbers (like a lot!!). Being from a spiritual background, I find solace in practicing yoga and meditation whenever I can.
-
-:cookie: I am moderately opinionated and enjoy lowest of humours like 'puns'. My vedic astro sun sign is 'Scorpion' and I am also an ENFJ. 
 
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
